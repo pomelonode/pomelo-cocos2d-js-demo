@@ -122,3 +122,7 @@ pomeloChat();
 
 
 注意：该项目只做代码相关演示, cocos2d-js 相关库并没有上传
+项目下载  
+```
+git clone https://github.com/pomelonode/pomelo-cocos2d-js-demo.git --recursive
+```
